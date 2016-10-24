@@ -13,10 +13,10 @@ module.exports = function(environment) {
       }
     },
     firebase: {
-    apiKey: 'xyz',
-    authDomain: 'YOUR-FIREBASE-APP.firebaseapp.com',
-    databaseURL: 'https://YOUR-FIREBASE-APP.firebaseio.com',
-    storageBucket: 'YOUR-FIREBASE-APP.appspot.com',
+      apiKey: "AIzaSyCHCKrfZ7VMbHnBnVuytOGbyCrUEO9UxXA",
+     authDomain: "epicodus-super-rentals-dd38c.firebaseapp.com",
+     databaseURL: "https://epicodus-super-rentals-dd38c.firebaseio.com",
+     storageBucket: "epicodus-super-rentals-dd38c.appspot.com",
   },
 
     APP: {
